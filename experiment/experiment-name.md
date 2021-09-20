@@ -1,1 +1,1 @@
-## Experiment name
+## Fragmentation of IgG using pepsin

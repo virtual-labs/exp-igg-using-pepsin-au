@@ -2,37 +2,47 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.F(ab’)2 fragment is separated to _______",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "One Fab",
+        "b": "Two Fab",
+        "c": "One Fab and one Fc",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.Size of IgG is_________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "25 kDa",
+        "b": "150 kDa",
+        "c": "50 kDa",
+        "d": "100 kDa"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Immunoglobulins are composed of ________",
+      "answers": {
+        "a": "Two light chains and one heavy chain",
+        "b": "Two heavy chains and one light chain",
+        "c": "One heavy chains and one light chain",
+        "d": "Two heavy chains and two light chain"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.F(ab’)2 fragment can be separated by _______",
+      "answers": {
+        "a": "Oxidation",
+        "b": "Mild reduction",
+        "c": "Carboxylation",
+        "d": "Hydrolysis"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

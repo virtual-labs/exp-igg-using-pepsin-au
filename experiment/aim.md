@@ -1,1 +1,4 @@
-### Aim of the experiment
+### Objective
+
+
+To prepare the fragments of  IgG using pepsin digestion.
