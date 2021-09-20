@@ -1,6 +1,6 @@
-## Theory
+### Theory
 
-&nbsp;
+
 
 Immunoglobulins (antibodies) are serum proteins produced by B cells as an adaptive component of the immune system. They are typically consisted of four amino acid chains-two heavy chains and two light chains that are covalently bonded by intra- and inter-chain disulfide bridges. IgGs are large immunoglobulins of approximately 150 kDa composed of two identical light chains and two identical heavy chains with sizes 25 kDa and 50 kDa respectively with two antigen binding sites.
  

@@ -1,6 +1,6 @@
-## Materials required
+#### Materials required
  
-&nbsp;
+
 
 1. Chromatographic column
 2. pH meter
@@ -20,7 +20,7 @@
 &nbsp;
  
 
-## Procedure
+### Procedure
  
 &nbsp;
  
