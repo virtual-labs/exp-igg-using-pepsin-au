@@ -1,1 +1,1 @@
-## Fragmentation of IgG using pepsin
+## Fragmentation of IgG using Pepsin
